@@ -1,2 +1,34 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+positiveyou-react/node_modules
+
+# testing
+positiveyou-react/coverage
+
+# production
+positiveyou-react/build
+positiveyou/frontend/static/frontend/build
+positiveyou/frontend/templates/frontend/build
+
+# misc
+positiveyou-react/.DS_Store
+positiveyou-react/.env.local
+positiveyou-react/.env.development.local
+positiveyou-react/.env.test.local
+positiveyou-react/.env.production.local
+
+positiveyou-react/npm-debug.log*
+positiveyou-react/yarn-debug.log*
+positiveyou-react/yarn-error.log*
+
+positiveyou/frontend/__pycache__
+positiveyou/frontend/migrations
+positiveyou/positiveyou/__pycache__
+positiveyou/db.sqlite3
+
+# General
 venv/
-.idea
+.idea/
+.vscode/
+
