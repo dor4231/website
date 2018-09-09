@@ -23,6 +23,8 @@ positiveyou-react/yarn-debug.log*
 positiveyou-react/yarn-error.log*
 
 positiveyou/frontend/__pycache__
+positiveyou/frontend/migrations
+positiveyou/positiveyou/__pycache__
 positiveyou/db.sqlite3
 
 # General
