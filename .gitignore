@@ -8,8 +8,8 @@ positiveyou-react/coverage
 
 # production
 positiveyou-react/build
-positiveyou/forntend/static/frontend/build
-positiveyou/forntend/templates/frontend/build
+positiveyou/frontend/static/frontend/build
+positiveyou/frontend/templates/frontend/build
 
 # misc
 positiveyou-react/.DS_Store
@@ -22,7 +22,7 @@ positiveyou-react/npm-debug.log*
 positiveyou-react/yarn-debug.log*
 positiveyou-react/yarn-error.log*
 
-positiveyou/positiveyou/__pycache__
+positiveyou/frontend/__pycache__
 positiveyou/db.sqlite3
 
 # General
