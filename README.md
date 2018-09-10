@@ -6,6 +6,16 @@ At first, the main porpus of this site is to attract potential customers and mak
 
 Secondly, our members who already works with us can find update about the progress of thier project and easily find someone to support them if somthing went wrong.
 
+## Installation
+
+Read about the structure to get deeper understanding about what you are doing in this section.
+1. git clone this repository.
+2. Create virtual environment using python 3.6 and call it `venv` in order for git to ignore it (Use this for the [full virtualenv guid](https://virtualenv.pypa.io/en/stable/userguide/)).
+3. Activate the virtualenv (macOS: `source venv/bin/activate` ; Windows: `./venv/Scripts/activate.bat`).
+4. Install python requerments: `python -m pip install -r requirements.txt`.
+5. `cd` into the `positiveyou-react` folder.
+6. Run command: `npm install`.
+
 
 ## Structur
 
